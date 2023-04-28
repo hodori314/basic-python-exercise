@@ -3,10 +3,11 @@ This repository contains several exercises for beginners who learn python at POS
 
 ## TOC
 - [Implementing Data Structure](#implementing-data-structure)
-  - [Deque](#deque)
-  - [Counter](#counter)
+  * [Deque](#deque)
+  * [Counter](#counter)
 - [Dealing with concepts of OOP](#dealing-with-concepts-of-oop)
-  - [Hangman](#hangman)
+  * [Hangman](#hangman)
+  * [Counter](#counter-1)
 
 ## Implementing Data Structure
 
@@ -37,3 +38,12 @@ Behaviors of those functions you have to implement are the same as the descripti
 
 Implement hangman game using class.  
 You can learn encapsulation with this exercise.
+
+### Counter
+- difficulty: ★☆☆  
+- time: ~ 1h 15m for beginners
+- background: constructor overloading
+
+Implement Counter <a href='https://docs.python.org/ko/3/library/collections.html#collections.Counter'>[official doc]</a>  
+You have to cover  `__init__`, `most_common`, `total`, `elements` functions.  
+Behaviors of those functions you have to implement are the same as the description of the official document. 
