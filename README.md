@@ -4,6 +4,7 @@ This repository contains several exercises for beginners who learn python at POS
 ## TOC
 - [Implementing Data Structure](#implementing-data-structure)
   - [Deque](#deque)
+- [Dealing with concepts of OOP](#dealing-with-concepts-of-oop)
   - [Hangman](#hangman)
 
 ## Implementing Data Structure
@@ -17,8 +18,12 @@ Implement doubly ended queue(Dequeue) <a href='https://docs.python.org/ko/3/libr
 You have to cover `append`, `appendleft`, `pop`, `popleft`, `index`, `insert`, `remove`, `count` functions.  
 Behaviors of those functions you have to implement are the same as the description of the official document.  
 
+## Dealing with concepts of OOP
+
 ### Hangman
 - difficulty: ★★☆  
 - time: ~ 1h 30m for beginners
 - background: class
-Implement hangman game using class.
+
+Implement hangman game using class.  
+You can learn encapsulation with this exercise.
