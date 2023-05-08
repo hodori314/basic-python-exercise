@@ -40,8 +40,8 @@ Implement hangman game using class. <a href='https://github.com/hodori314/basic-
 You can learn encapsulation with this exercise.
 
 ### Counter
-- difficulty: ★☆☆  
-- time: ~ 1h 15m for beginners
+- difficulty: ★★★  
+- time: ~ 2h for beginners
 - background: constructor overloading
 
 Implement Counter <a href='https://docs.python.org/ko/3/library/collections.html#collections.Counter'>[official doc]</a>  <a href='https://github.com/hodori314/basic-python-exercise/blob/main/counter-oop.py'>[code]</a>  
