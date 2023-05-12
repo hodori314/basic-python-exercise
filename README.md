@@ -47,3 +47,11 @@ You can learn encapsulation with this exercise.
 Implement Counter <a href='https://docs.python.org/ko/3/library/collections.html#collections.Counter'>[official doc]</a>  <a href='https://github.com/hodori314/basic-python-exercise/blob/main/counter-oop.py'>[code]</a>  
 You have to cover  `__init__`, `most_common`, `total`, `elements` functions.  
 Behaviors of those functions you have to implement are the same as the description of the official document. 
+
+### Number
+- difficulty: ★☆☆
+- time: ~ 30min for beginners
+- background: inheritance, overloading 
+Implement ComplexNumber, NaturalNumber class that supports operator overloading.
+All the description that you need can be found in the doctest code.
+Try to read and understand the test code to implemet your functions. (Reading and understanding of the error messages from official scripts are also one of the programmer's basic skill sets.)
